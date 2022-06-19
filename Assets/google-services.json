@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659294428163",
+    "firebase_url": "https://millionaire-fb15b.firebaseio.com",
+    "project_id": "millionaire-fb15b",
+    "storage_bucket": "millionaire-fb15b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659294428163:android:c88a64e884bd0a31c3c236",
+        "android_client_info": {
+          "package_name": "ru.knowledgehome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659294428163-ug58q13vr7e0j603osca89lee2sgtbfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCb7wRbyv_V5PjHCoXkeRAPdgBWkXau1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659294428163-ug58q13vr7e0j603osca89lee2sgtbfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,357 @@
+{
+  "gameId" : "1nAV8unpxwu8eR7mH5cY",
+  "movingPlayer" : "7vpU8mULgma0SAHbqoOj96KshPH2",
+  "results" : {
+    "round0" : {
+      "7vpU8mULgma0SAHbqoOj96KshPH2" : "010",
+      "MChRdweM5yfRl3K21PO7V9gi0822" : "000000000000000000100"
+    },
+    "round1" : {
+      "7vpU8mULgma0SAHbqoOj96KshPH2" : "101",
+      "MChRdweM5yfRl3K21PO7V9gi0822" : "111"
+    },
+    "round2" : {
+      "7vpU8mULgma0SAHbqoOj96KshPH2" : "111",
+      "MChRdweM5yfRl3K21PO7V9gi0822" : "011"
+    },
+    "round3" : {
+      "7vpU8mULgma0SAHbqoOj96KshPH2" : "101",
+      "MChRdweM5yfRl3K21PO7V9gi0822" : "111"
+    },
+    "round4" : {
+      "7vpU8mULgma0SAHbqoOj96KshPH2" : "111",
+      "MChRdweM5yfRl3K21PO7V9gi0822" : "101"
+    },
+    "round5" : {
+      "7vpU8mULgma0SAHbqoOj96KshPH2" : "111",
+      "MChRdweM5yfRl3K21PO7V9gi0822" : "111"
+    }
+  },
+  "rounds" : {
+    "round0" : {
+      "questions" : {
+        "question0" : {
+          "answers" : [ {
+            "answerText" : "25 мая",
+            "isCorrect" : false
+          }, {
+            "answerText" : "6 июня",
+            "isCorrect" : false
+          }, {
+            "answerText" : "4 июля",
+            "isCorrect" : true
+          }, {
+            "answerText" : "1 августа",
+            "isCorrect" : false
+          } ],
+          "questionText" : "День независимости США – …"
+        },
+        "question1" : {
+          "answers" : [ {
+            "answerText" : "Австралия",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Канада",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Франция",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Швейцария",
+            "isCorrect" : true
+          } ],
+          "questionText" : "Какая страна не имеет ресурсов приливной энергии?"
+        },
+        "question2" : {
+          "answers" : [ {
+            "answerText" : "Бенджамин Франклин",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Джордж Вашингтон",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Томас Джефферсон",
+            "isCorrect" : true
+          }, {
+            "answerText" : "Джон Адамс",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Кто был автором Декларации независимости США?"
+        }
+      }
+    },
+    "round1" : {
+      "questions" : {
+        "question0" : {
+          "answers" : [ {
+            "answerText" : "Чогори",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Эверест",
+            "isCorrect" : true
+          }, {
+            "answerText" : "Аконкагуа",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Пик Победы",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Самая высокая горная вершина в мире?"
+        },
+        "question1" : {
+          "answers" : [ {
+            "answerText" : "динамометр",
+            "isCorrect" : false
+          }, {
+            "answerText" : "барометр",
+            "isCorrect" : true
+          }, {
+            "answerText" : "линейка",
+            "isCorrect" : false
+          }, {
+            "answerText" : "термометр",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Атмосферное давление измеряют прибором, название которого"
+        },
+        "question2" : {
+          "answers" : [ {
+            "answerText" : "Л.Н. Толстой",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Ф.М. Достоевский",
+            "isCorrect" : true
+          }, {
+            "answerText" : "А.П. Чехов",
+            "isCorrect" : false
+          }, {
+            "answerText" : "И.С. Тургенев",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Кто написал роман «Преступление и наказание»?"
+        }
+      }
+    },
+    "round2" : {
+      "questions" : {
+        "question0" : {
+          "answers" : [ {
+            "answerText" : "Антоний ван Левенгук ",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Франческа Реди ",
+            "isCorrect" : true
+          }, {
+            "answerText" : "Стенли Миллер ",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Луи Пастер ",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Описав цикл развития мясной мухи, невозможность самопроизвольного зарождения жизни доказал:"
+        },
+        "question1" : {
+          "answers" : [ {
+            "answerText" : "Чогори",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Эверест",
+            "isCorrect" : true
+          }, {
+            "answerText" : "Аконкагуа",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Пик Победы",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Самая высокая горная вершина в мире?"
+        },
+        "question2" : {
+          "answers" : [ {
+            "answerText" : "Антоний ван Левенгук ",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Франческа Реди ",
+            "isCorrect" : true
+          }, {
+            "answerText" : "Стенли Миллер ",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Луи Пастер ",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Описав цикл развития мясной мухи, невозможность самопроизвольного зарождения жизни доказал:"
+        }
+      }
+    },
+    "round3" : {
+      "questions" : {
+        "question0" : {
+          "answers" : [ {
+            "answerText" : "Чогори",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Эверест",
+            "isCorrect" : true
+          }, {
+            "answerText" : "Аконкагуа",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Пик Победы",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Самая высокая горная вершина в мире?"
+        },
+        "question1" : {
+          "answers" : [ {
+            "answerText" : "для поиска информации в Интернете",
+            "isCorrect" : false
+          }, {
+            "answerText" : "для обмена сообщениями ",
+            "isCorrect" : false
+          }, {
+            "answerText" : "для загрузки веб-страниц на сайт ",
+            "isCorrect" : true
+          }, {
+            "answerText" : "для общения в реальном времени",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Зачем используются FTP-серверы?"
+        },
+        "question2" : {
+          "answers" : [ {
+            "answerText" : "Чогори",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Эверест",
+            "isCorrect" : true
+          }, {
+            "answerText" : "Аконкагуа",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Пик Победы",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Самая высокая горная вершина в мире?"
+        }
+      }
+    },
+    "round4" : {
+      "questions" : {
+        "question0" : {
+          "answers" : [ {
+            "answerText" : "Чогори",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Эверест",
+            "isCorrect" : true
+          }, {
+            "answerText" : "Аконкагуа",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Пик Победы",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Самая высокая горная вершина в мире?"
+        },
+        "question1" : {
+          "answers" : [ {
+            "answerText" : "ковалентной неполярной",
+            "isCorrect" : false
+          }, {
+            "answerText" : "ковалентной полярной",
+            "isCorrect" : true
+          }, {
+            "answerText" : "ионной",
+            "isCorrect" : false
+          }, {
+            "answerText" : "водородной",
+            "isCorrect" : false
+          } ],
+          "questionText" : "В молекуле воды атомы связаны связью:"
+        },
+        "question2" : {
+          "answers" : [ {
+            "answerText" : "когда?",
+            "isCorrect" : false
+          }, {
+            "answerText" : "почему?",
+            "isCorrect" : false
+          }, {
+            "answerText" : "что сделает?",
+            "isCorrect" : false
+          }, {
+            "answerText" : "что делая?",
+            "isCorrect" : true
+          } ],
+          "questionText" : "Деепричастие отвечает на вопрос:"
+        }
+      }
+    },
+    "round5" : {
+      "questions" : {
+        "question0" : {
+          "answers" : [ {
+            "answerText" : "Русский",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Даргинский",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Аварский",
+            "isCorrect" : true
+          }, {
+            "answerText" : "Лакский",
+            "isCorrect" : false
+          } ],
+          "questionText" : "На каком языке Расул Гамзатов писал свои произведения?"
+        },
+        "question1" : {
+          "answers" : [ {
+            "answerText" : "Чогори",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Эверест",
+            "isCorrect" : true
+          }, {
+            "answerText" : "Аконкагуа",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Пик Победы",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Самая высокая горная вершина в мире?"
+        },
+        "question2" : {
+          "answers" : [ {
+            "answerText" : "Чогори",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Эверест",
+            "isCorrect" : true
+          }, {
+            "answerText" : "Аконкагуа",
+            "isCorrect" : false
+          }, {
+            "answerText" : "Пик Победы",
+            "isCorrect" : false
+          } ],
+          "questionText" : "Самая высокая горная вершина в мире?"
+        }
+      }
+    }
+  },
+  "sessionResult" : {
+	"userResults": {
+	"7vpU8mULgma0SAHbqoOj96KshPH2" : 14,
+    "MChRdweM5yfRl3K21PO7V9gi0822" : 14
+	}
+    
+    "winner" : "7vpU8mULgma0SAHbqoOj96KshPH2"
+  },
+  "status" : "ended",
+  "users" : {
+    "7vpU8mULgma0SAHbqoOj96KshPH2" : true,
+    "MChRdweM5yfRl3K21PO7V9gi0822" : true
+  }
+}

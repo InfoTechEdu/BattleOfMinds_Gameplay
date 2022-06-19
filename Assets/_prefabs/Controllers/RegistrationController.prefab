@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8198464004428576290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8198464004428576316}
+  - component: {fileID: 8198464004428576291}
+  m_Layer: 0
+  m_Name: RegistrationController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8198464004428576316
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8198464004428576290}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1012.5329, y: 633.16656, z: -2638.25}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8198464004428576291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8198464004428576290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f02d944628dd3f4ea2faea48a4681c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  errorInputColor: {r: 0.7830189, g: 0.08495018, b: 0.08495018, a: 0.5019608}
+  errorMessageColor: {r: 0.8584906, g: 0.23082057, b: 0.23082057, a: 1}
+  SuccessRegistrationPanel: {fileID: 0}
+  DataPanel: {fileID: 0}
+  emailInput: {fileID: 0}
+  passwordInput: {fileID: 0}
+  nameInput: {fileID: 0}
+  surnameInput: {fileID: 0}
+  classDropdown: {fileID: 0}
+  menu: {fileID: 0}
+  errorMessage: {fileID: 0}
+  domznaniyProjectAuthKey: AIzaSyASUsblqPPqu435t1WEFcGCY0doKpXjHMs
+  tempValue: 0

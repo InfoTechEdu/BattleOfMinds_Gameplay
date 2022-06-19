@@ -1,0 +1,142 @@
+{
+	"allRoundData" : [
+		{
+			"price" : 100,
+			"timeLimitInSeconds" : 60,
+			"questions" : [
+				{
+					"questionText" : "Вопрос 1",
+					"answers" : [
+						{
+							"answerText" : "Ответ 1",
+							"isCorrect" : false
+						},
+						{
+							"answerText" : "Ответ 2",
+							"isCorrect" : false
+						},
+						{
+							"answerText" : "Ответ 3 (true)",
+							"isCorrect" : true
+						},
+						{
+							"answerText" : "Ответ 4",
+							"isCorrect" : false
+						}
+					]
+				},
+				{
+					"questionText" : "Вопрос 2",
+					"answers" : [
+						{
+							"answerText" : "Ответ 1",
+							"isCorrect" : false
+						},
+						{
+							"answerText" : "Ответ 2 (true)",
+							"isCorrect" : true
+						},
+						{
+							"answerText" : "Ответ 3",
+							"isCorrect" : false
+						},
+						{
+							"answerText" : "Ответ 4",
+							"isCorrect" : false
+						}
+					]
+				},
+				{
+					"questionText" : "Вопрос 3",
+					"answers" : [
+						{
+							"answerText" : "Ответ 1 (true)",
+							"isCorrect" : true
+						},
+						{
+							"answerText" : "Ответ 2",
+							"isCorrect" : false
+						},
+						{
+							"answerText" : "Ответ 3",
+							"isCorrect" : false
+						},
+						{
+							"answerText" : "Ответ 4",
+							"isCorrect" : false
+						}
+					]
+				}
+			]
+		},
+		{
+			"price" : 200,
+			"timeLimitInSeconds" : 60,
+			"questions" : [
+				{
+					"questionText" : "200$ Вопрос 1",
+					"answers" : [
+						{
+							"answerText" : "Ответ 1",
+							"isCorrect" : false
+						},
+						{
+							"answerText" : "Ответ 2",
+							"isCorrect" : false
+						},
+						{
+							"answerText" : "Ответ 3 (true)",
+							"isCorrect" : true
+						},
+						{
+							"answerText" : "Ответ 4",
+							"isCorrect" : false
+						}
+					]
+				},
+				{
+					"questionText" : "200$ Вопрос 2",
+					"answers" : [
+						{
+							"answerText" : "Ответ 1",
+							"isCorrect" : false
+						},
+						{
+							"answerText" : "Ответ 2 (true)",
+							"isCorrect" : true
+						},
+						{
+							"answerText" : "Ответ 3",
+							"isCorrect" : false
+						},
+						{
+							"answerText" : "Ответ 4",
+							"isCorrect" : false
+						}
+					]
+				},
+				{
+					"questionText" : "200$ Вопрос 3",
+					"answers" : [
+						{
+							"answerText" : "Ответ 1 (true)",
+							"isCorrect" : true
+						},
+						{
+							"answerText" : "Ответ 2",
+							"isCorrect" : false
+						},
+						{
+							"answerText" : "Ответ 3",
+							"isCorrect" : false
+						},
+						{
+							"answerText" : "Ответ 4",
+							"isCorrect" : false
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+   "allUsers":[
+      {
+         "name":"MainPlayer",
+         "score":500,
+         "capital":5400
+      },
+      {
+         "name":"SecondPlayer",
+         "score":500,
+         "capital":2700
+      },
+      {
+         "name":"ThirdPlayer",
+         "score":500,
+         "capital":2800
+      },
+      {
+         "name":"FourthPlayer",
+         "score":2000,
+         "capital":3000
+      },
+      {
+         "name":"FifthPlayer",
+         "score":1000,
+         "capital":2600
+      }
+   ]
+}

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9bc004e49ab7e5947918a614d245cf9b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Museo Sans Cyrl
+  fontNames:
+  - Museo Sans Cyrl
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d2f0ae437954ee7418797e166af704e4, type: 3}
+  - {fileID: 12800000, guid: 2b7b1babff29d3c4483d5d0cc2dc0ac4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

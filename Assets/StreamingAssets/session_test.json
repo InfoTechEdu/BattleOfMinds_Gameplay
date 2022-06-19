@@ -1,0 +1,51 @@
+{
+    "gameId": "ncEJtrh4NKDNSf9migVT",
+    "quiz": {
+        "100": {
+            "data": {
+                "price": 100,
+                "timeLimitInSeconds": 30
+            },
+            "questionData": {
+                "answers": [{
+                        "answerText": "Answer 1 (100) (True))",
+                        "isCorrect": true
+                    }, {
+                        "answerText": "Answer 2 (100) (False)",
+                        "isCorrect": false
+                    }
+                ],
+                "questionText": "Question 0"
+            }
+        },
+        "200": {
+            "data": {
+                "price": 200,
+                "timeLimitInSeconds": 30
+            },
+            "questionData": {
+                "answers": [{
+                        "answerText": "Answer 1 (200) true",
+                        "isCorrect": true
+                    }, {
+                        "answerText": "Answer 1 (200) false",
+                        "isCorrect": false
+                    }
+                ],
+                "questionText": "Question 1 (200)"
+            }
+        },
+		
+    },
+    "status": "running",
+    "users": {
+        "f6KomxyyeAalUetctQM9HQpBzhG3": {
+            "lost": true,
+            "result": 100
+        },
+        "onQMZ3r5oHR31JcK7SoVS4Kk2883": {
+            "lost": false,
+            "result": 0
+        }
+    }
+}
